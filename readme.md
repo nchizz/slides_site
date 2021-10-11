@@ -1,1 +1,1 @@
-# Slider on js, witout backend.
+# Slider on js, without backend.
